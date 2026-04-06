@@ -1,2 +1,3 @@
 # DSA_project
+Project Title : Smart ambulance routing system.
 In this system, the city is organized as a graph structure, where nodes represent locations (hospitals, patient, junctions) and edges represent roads. The graph is stored using an adjacency list for memory efficiency. The Dijkstra algorithm along with a priority queue (min heap) is used to calculate the shortest and fastest route. The data is divided into static data (map, hospitals) and dynamic data (traffic, ambulance location), which helps the system provide accurate real-time routing.
